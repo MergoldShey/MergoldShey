@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MergoldShey
+- 👋 Hi, I’m Shiphrah 
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Fullstack Engineering 
 - 💞️ I’m looking to collaborate on ...
