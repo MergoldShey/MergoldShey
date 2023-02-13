@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shiphrah 
-- 👀 I’m interested in Software Engineering 
+- 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Fullstack Engineering 
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me mergoldshey@gmail.com
