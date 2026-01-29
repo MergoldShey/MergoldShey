@@ -20,7 +20,7 @@ Currently, I leverage my technical background to provide high-level Virtual Assi
 
 ### 📫 Let's Connect!
 * **Email:** mergoldshey@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/shiphrah-chimeremma-9507663a8
+* **LinkedIn:** https://www.linkedin.com/in/shiphrah-chimeremma
 
 ---
 *"Blending scientific logic with technical execution to solve complex problems."*
