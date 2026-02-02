@@ -19,8 +19,8 @@
 * ​Building scalable Backend solutions and optimizing data scraping workflows.
 
 ## 🤝 Let's Connect! 📩
-* **​Portfolio:** linktr.ee/Shiphrah_Backend
-* **​LinkedIn:** linkedin.com/in/shiphrah-chimeremma
+* **​Portfolio:** https://linktr.ee/Shiphrah_Backend
+* *​LinkedIn:* https://www.linkedin.com/in/shiphrah-chimeremma
 * **Email:** mergoldshye@gmail.com
 
 ---
