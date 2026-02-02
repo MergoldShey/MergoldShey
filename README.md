@@ -1,28 +1,29 @@
-# Hi, I'm Shiphrah 👋
+# ​Hi, I'm Shiphrah 👋
 
-### Technical Virtual Assistant | Backend Engineer | B.Tech Biochemistry Graduate
+### Technical AI Pilot | Backend Engineer | B.Tech Biochemistry Graduate
 
-I am a **methodical** professional with a unique blend of scientific analysis and software engineering.
-After graduating from FUTO, I transitioned into Fullstack Engineering with a specialization in Backend Development.
-Currently, I leverage my technical background to provide high-level Virtual Assistance and Customer Success services.
-
----
-
-### 🛠️ Tech & Skills
-* **Backend:** Node.js, API Development, Database Management.
-* **VA & Support:** Technical Documentation, CRM Management, Customer Success.
-* **Soft Skills:** Logical Problem Solving, Analytical Research (Biochemistry background).
-* **Languages:** English (Native), Japanese (Basic).
-
-### 🌱 Current Focus
-* Providing remote technical support and administrative excellence.
-* Exploring the intersection of Biotech and Software Solutions.
-
-### 📫 Let's Connect!
-* **Email:** mergoldshey@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/shiphrah-chimeremma
+​I am a resilient professional with a unique blend of scientific analysis and software engineering. I successfully completed my B.Tech in Biochemistry at FUTO (2018–2024) while simultaneously finishing an intensive 12-month Backend Software Engineering specialization at ALX (2021–2022).
+​Currently, I leverage my technical background to provide high-level AI training, Backend Development, and Virtual Assistance.
 
 ---
-*"Blending scientific logic with technical execution to solve complex problems."*
+
+## 🛠 Tech & Skills 🌟
+* **​Backend:** Node.js, Python, API Development, Database Management (SQL/NoSQL).
+* **​AI & Support:** LLM Prompt Engineering, Technical Documentation, CRM Management.
+* **​Soft Skills:** Resilience, Logical Problem Solving, Analytical Research.
+
+* **Languages:** English (C1 Advanced/Native), Japanese (Basic).
+
+## 🌱 Current Focus 🔵
+* Providing remote technical support and AI agent evaluation.
+* ​Building scalable Backend solutions and optimizing data scraping workflows.
+
+## 🤝 Let's Connect! 📩
+* **​Portfolio:** linktr.ee/Shiphrah_Backend
+* **​LinkedIn:** linkedin.com/in/shiphrah-chimeremma
+* **Email:** mergoldshye@gmail.com
+
+---
+*"Blending scientific logic with technical execution to solve complex problems".*
 
 
