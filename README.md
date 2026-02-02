@@ -2,7 +2,8 @@
 
 ### Technical AI Pilot | Backend Engineer | B.Tech Biochemistry Graduate
 
-​I am a resilient professional with a unique blend of scientific analysis and software engineering. I successfully completed my B.Tech in Biochemistry at FUTO (2018–2024) while simultaneously finishing an intensive 12-month Backend Software Engineering specialization at ALX (2021–2022).
+​I am a resilient professional with a unique blend of scientific analysis and software engineering.
+I successfully completed my B.Tech in Biochemistry at FUTO (2018–2024) while simultaneously finishing an intensive 12-month Backend Software Engineering specialization at ALX (2021–2022).
 ​Currently, I leverage my technical background to provide high-level AI training, Backend Development, and Virtual Assistance.
 
 ---
@@ -20,7 +21,7 @@
 
 ## 🤝 Let's Connect! 📩
 * **​Portfolio:** https://linktr.ee/Shiphrah_Backend
-* *​LinkedIn:* https://www.linkedin.com/in/shiphrah-chimeremma
+* **​LinkedIn:** https://www.linkedin.com/in/shiphrah-chimeremma
 * **Email:** mergoldshye@gmail.com
 
 ---
